@@ -10,6 +10,6 @@ This project should have been done in python. It would have saved us the headach
 Feel free to ask any questions by making an issue in the Issues tab.
 
 Collaborators
-*Muhammad Mubashirullah Durrani
-*Arbaz Khan					  
-*Umair
+* Muhammad Mubashirullah Durrani
+* Arbaz Khan					  
+* Umair
